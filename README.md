@@ -51,3 +51,9 @@ https://demo.kingasterisk.com
 KingAsterisk Technologies delivers advanced contact center dialer solutions and reliable VICIdial services designed to boost efficiency, simplify operations, and enhance agent performance through powerful client-server systems.
 </strong>
 </p>
+
+<img width="1366" height="642" alt="inbound call log Screen" src="https://github.com/user-attachments/assets/407e38ae-26e1-4eca-b539-ae96885442c4" />
+
+<img width="1366" height="648" alt="outbound log" src="https://github.com/user-attachments/assets/53dd891b-f0d3-46a6-af49-6e2897723d61" />
+
+
